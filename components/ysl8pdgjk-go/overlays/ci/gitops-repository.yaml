@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ysl8pdgjk-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ysl8pdgjk-go-gitops
